@@ -1,0 +1,4 @@
+# Tudunk-e lőni all után
+GT4500,1,0,0,0 #Létrehozzuk
+TORPEDO,ALL #Lövünk
+TORPEDO,SINGLE #Megint, ehhez már nincs töltény

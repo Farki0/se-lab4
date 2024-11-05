@@ -1,0 +1,4 @@
+#SINGLE tüzelés után marad-e a tárban
+GT4500,1,0,0,0 #Létrehozzuk
+TORPEDO,SINGLE #Lövünk
+TORPEDO,SINGLE #Megint, ehhez már nincs töltény
