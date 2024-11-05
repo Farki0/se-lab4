@@ -1,0 +1,3 @@
+#Nincs torpedónk, de Tüzelünk
+GT4500,0,0,0,0 #Létrehozzuk
+TORPEDO,ALL #Tüzelünk

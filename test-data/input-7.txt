@@ -1,0 +1,4 @@
+# Tudunk-e lőni a masodlagos tarbol
+GT4500,1,0,1,0 #Létrehozzuk
+TORPEDO,SINGLE #Lövünk
+TORPEDO,SINGLE #Megint, ehhez már nincs töltény
